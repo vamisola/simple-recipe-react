@@ -1,3 +1,22 @@
+# It is a simple React Recipe App 
+
+- initialized with Create React App
+- then simple styling using Flexbox
+
+
+How to use:
+
+- git clone this repo
+- cd to the app
+- npm install
+- npm start
+
+Thanks!
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
